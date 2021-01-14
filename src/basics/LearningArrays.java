@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class LearningArrays {
 
+
     public static void main(String[] args) {
         //Working with Arrays in Java
 
