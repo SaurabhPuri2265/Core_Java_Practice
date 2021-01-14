@@ -6,7 +6,6 @@ public class DataTypes {
 
         //variable names should start with an alphabet only
 
-
         int num=5;
 
         String word="Hello";
