@@ -40,7 +40,7 @@ public class LearningMethods {
     }
 
     //With one argument with String Argument
-    public static void oneArg(String arg){
+     static void oneArg(String arg){
         System.out.println(arg);
     }
 
