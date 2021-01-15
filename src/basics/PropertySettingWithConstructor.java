@@ -9,6 +9,7 @@ public class PropertySettingWithConstructor {
         Person p1=new Person(15,"Sam");
         Person p2=new Person(20,"Aman");
 
+
         p1.showDetails();
 
         p2.showDetails();
