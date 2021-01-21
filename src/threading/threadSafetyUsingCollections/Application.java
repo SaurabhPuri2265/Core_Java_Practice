@@ -1,4 +1,4 @@
-package threading.threadSafetyUsingCollections.ProductInventoryManager;
+package threading.threadSafetyUsingCollections;
 
 public class Application {
 

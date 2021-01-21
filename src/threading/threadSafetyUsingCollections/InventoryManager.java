@@ -1,4 +1,4 @@
-package threading.threadSafetyUsingCollections.ProductInventoryManager;
+package threading.threadSafetyUsingCollections;
 
 import java.util.ArrayList;
 import java.util.List;
