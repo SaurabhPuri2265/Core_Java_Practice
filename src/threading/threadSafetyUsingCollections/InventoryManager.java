@@ -20,6 +20,7 @@ public class InventoryManager {
             soldProductsList.add(product);
             System.out.println("Added: "+product);
             try {
+
                 Thread.sleep(10);
             } catch (InterruptedException e) {
                 e.printStackTrace();

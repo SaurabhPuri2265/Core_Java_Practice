@@ -21,7 +21,7 @@ public class Application {
         });
 
         inventoryTask.start();
-        Thread.sleep(2000);
+        Thread.sleep(2000 );
         displayTask.start();
     }
 }
